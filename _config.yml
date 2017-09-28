@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Your Title
+title: NIKIHU
 subtitle: This is hexo theme
-author: John Doe
+author: 阿狐
 language:
 timezone:
 
@@ -19,8 +19,8 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Beantech | 豆科技
-email: beantech@gmail.com
+SEOTitle: NIKIHU
+email: 919911762@qq.com
 description: ""
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
@@ -33,9 +33,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
 github_username:    YenYuHsuan
-# twitter_username:   Demonbane_x
-facebook_username:  YenYuHsuan
-linkedin_username:  yu-hsuan-yen
+
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
